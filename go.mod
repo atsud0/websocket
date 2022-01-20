@@ -1,4 +1,4 @@
-module websocket
+module github.com/atsud0/websocket
 
 go 1.17
 
